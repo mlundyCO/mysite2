@@ -88,6 +88,14 @@ h2 {
     margin: 0 0 .4em;
     font-weight: bold;
 }
+
+h3 {
+    font-family: 'PT Serif', serif;
+    font-size: 22px;
+    line-height: 1.2em;
+    margin: 0 0 .4em;
+    font-weight: bold;
+}
  
 /*layout*/
  
@@ -95,7 +103,7 @@ h2 {
 }
  
 article {
-    border-bottom: 1px solid #d8d8d8;
+    border-bottom: 1px solid #00265D;
     padding: 10px 20px 0 20px;
     margin: 10px 0;
 }
@@ -103,7 +111,7 @@ article {
 /*header*/
  
 header {
-    background: #2c1c1c;
+    background: #00265D;
     padding: 15px 20px;
 }
  
@@ -153,7 +161,7 @@ a.to_nav {
  
 a.to_nav:hover,
 a.to_nav:focus {
-    color: #1c1c1c;
+    color: #00265D;
     background: #ccc;
 }
 
@@ -161,7 +169,7 @@ a.to_nav:focus {
  
 #primary_nav ul {
     list-style: none;
-    background: #1c1c1c;
+    background: #00265D;
     padding: 5px 0;
 }
  
