@@ -103,7 +103,7 @@ article {
 /*header*/
  
 header {
-    background: #1c1c1c;
+    background: #2c1c1c;
     padding: 15px 20px;
 }
  
@@ -206,7 +206,7 @@ footer {
 
     .wrapper {
         position: relative;
-        width: 768px;
+        width: 1025px;
         margin: auto;
     }
      
